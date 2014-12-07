@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>specflow</id>
+    <title>SpecFlow</title>
+    <version>1.9.3.1</version>
+    <authors>TechTalk</authors>
+    <owners>Anthony Pasquale</owners>
+    <summary>SpecFlow integration for Visual Studio 2013</summary>
+    <description>SpecFlow aims at bridging the communication gap between domain experts and developers by binding business readable behavior specifications and examples to the underlying implementation.</description>
+    <projectUrl>http://www.specflow.org/</projectUrl>
+    <tags>specflow admin</tags>
+    <copyright>Copyright (c) 2009, TechTalk</copyright>
+    <licenseUrl>https://visualstudiogallery.msdn.microsoft.com/site/90ac3587-7466-4155-b591-2cd4cc4401bc/eula?licenseType=None</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>http://cdn.rawgit.com/apasquale/chocolatey-packages/master/icons/specflow.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
