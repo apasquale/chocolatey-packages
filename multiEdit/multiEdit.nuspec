@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
-    <id>multiEdit</id>
+    <id>multiedit</id>
     <title>MultiEditing</title>
     <version>1.6</version>
     <authors>Ala Shiban</authors>

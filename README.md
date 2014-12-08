@@ -6,11 +6,11 @@ These packages are hosted on myGet: https://www.myget.org/F/ap-chocolatey-packag
 
 This repo contains the following packages:
 - gister
-- multiEdit
-- powerShellTools
-- routingAssistant
-- specFlow
-- vsCommands.VS2013
+- multiedit
+- powershelltools
+- routingassistant
+- specflow
+- vscommands.vs2013
 
 
 Install with the following chocolatey command:

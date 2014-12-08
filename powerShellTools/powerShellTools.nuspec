@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
-    <id>powerShellTools</id>
+    <id>powershelltools</id>
     <title>PowerShell Tools for Visual Studio 2013</title>
     <version>1.0.5</version>
     <authors>Adam Driscoll</authors>

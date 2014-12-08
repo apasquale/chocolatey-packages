@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
-    <id>vsCommands.VS2013</id>
+    <id>vscommands.vs2013</id>
     <title>VSCommands for Visual Studio 2013</title>
     <version>12.3.0.9</version>
     <authors>Squared Infinity</authors>
