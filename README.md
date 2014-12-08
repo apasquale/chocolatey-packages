@@ -16,5 +16,7 @@ This repo contains the following packages:
 Install with the following chocolatey command:
 
 choco install <packageName> -source https://www.myget.org/F/ap-chocolatey-packages/
-Example: 
+
+Example:
+
 choco install specflow -source https://www.myget.org/F/ap-chocolatey-packages/
