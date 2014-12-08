@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>gister</id>
+    <title>Gister</title>
+    <version>1.5</version>
+    <authors>cromwellryan</authors>
+    <owners>Anthony Pasquale</owners>
+    <summary>Gister lets you create Github Gists within Visual Studio.</summary>
+    <description>Gister lets you push code snippets out to http://gist.github.com. 
+      Gister will package the active file or, if one exists, the selection in that file, create the gist and copy the gist url into the clipboard.</description>
+    <projectUrl>https://github.com/cromwellryan/Gister/</projectUrl>
+    <tags>gister admin</tags>
+    <copyright>Copyright (C) 2011 EchelonTouch, Inc</copyright>
+    <licenseUrl>https://visualstudiogallery.msdn.microsoft.com/site/b31916b0-c026-4c27-9d6b-ba831093f6b2/eula?licenseType=None</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>http://cdn.rawgit.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/gister.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

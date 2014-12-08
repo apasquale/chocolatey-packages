@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>vsCommands.VS2013</id>
+    <title>VSCommands for Visual Studio 2013</title>
+    <version>12.3.0.9</version>
+    <authors>Squared Infinity</authors>
+    <owners>Anthony Pasquale</owners>
+    <summary>VSCommands for Visual Studio 2013</summary>
+    <description>VSCommands extends Microsoft Visual Studio with powerfull features and tools. 
+With Fluent code navigation, smart coding assistance and tens of other improvements 
+VSCommands integrates seamlessly with Visual Studio and helps you to achieve more every day.</description>
+    <projectUrl>http://vscommands.squaredinfinity.com/home</projectUrl>
+    <tags>vsCommands admin</tags>
+    <copyright></copyright>
+    <licenseUrl>https://visualstudiogallery.msdn.microsoft.com/site/c6d1c265-7007-405c-a68b-5606af238ece/eula?licenseType=None</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>http://cdn.rawgit.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/vsCommands.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

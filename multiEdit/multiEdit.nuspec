@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>multiEdit</id>
+    <title>MultiEditing</title>
+    <version>1.6</version>
+    <authors>Ala Shiban</authors>
+    <owners>Anthony Pasquale</owners>
+    <summary>__REPLACE__</summary>
+    <description>Simultaneously edit in more than one location in the editor</description>
+    <projectUrl>If you've ever ran into a case where you wanted to quickly change variable names or multiple loop conditions - you can use Multi-Edit to set virtual carets that all behave the same.</projectUrl>
+    <tags>multiEdit admin</tags>
+    <copyright></copyright>
+    <licenseUrl>__REPLACE__</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>http://cdn.rawgit.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/multiEdit.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
