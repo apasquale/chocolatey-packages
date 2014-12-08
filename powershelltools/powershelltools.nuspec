@@ -10,7 +10,7 @@
     <owners>Anthony Pasquale</owners>
     <summary>PowerShell integration for Visual Studio</summary>
     <description>PowerShell Tools for Visual Studio adds language support for PowerShell in Visual Studio 2013. </description>
-    <projectUrl>__REPLACE__</projectUrl>
+    <projectUrl>http://adamdriscoll.github.io/poshtools/</projectUrl>
     <tags>powerShellTools admin</tags>
     <copyright>Copyright 2013 Adam Driscoll</copyright>
     <licenseUrl>https://visualstudiogallery.msdn.microsoft.com/site/c9eb3ba8-0c59-4944-9a62-6eee37294597/eula?licenseType=None</licenseUrl>

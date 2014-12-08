@@ -8,12 +8,11 @@
     <version>1.6</version>
     <authors>Ala Shiban</authors>
     <owners>Anthony Pasquale</owners>
-    <summary>__REPLACE__</summary>
-    <description>Simultaneously edit in more than one location in the editor</description>
-    <projectUrl>If you've ever ran into a case where you wanted to quickly change variable names or multiple loop conditions - you can use Multi-Edit to set virtual carets that all behave the same.</projectUrl>
+    <summary>Simultaneously edit in more than one location in the editor</summary>
+    <description>If you've ever ran into a case where you wanted to quickly change variable names or multiple loop conditions - you can use Multi-Edit to set virtual carets that all behave the same.</description>
+    <projectUrl>https://github.com/AlaShiban/MultiEdit</projectUrl>
     <tags>multiEdit admin</tags>
     <copyright></copyright>
-    <licenseUrl>__REPLACE__</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!--<iconUrl>http://cdn.rawgit.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/multiEdit.png</iconUrl>-->
     <!--<dependencies>

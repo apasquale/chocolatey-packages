@@ -4,13 +4,13 @@
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>routingassistant</id>
-    <title>Cobisi Routing Assistant </title>
+    <title>Cobisi Routing Assistant</title>
     <version>1.8</version>
     <authors>Cobisi</authors>
     <owners>Anthony Pasquale</owners>
     <summary>Browse, define, match and filter ASP.NET MVC routes within ASP.NET applications and web sites.</summary>
     <description>Cobisi Routing Assistant is a free Visual Studio extension which allows developers to easily browse, define, match and filter ASP.NET MVC routes within ASP.NET applications and web sites. As of version 1.4, Routing Assistant supports C# and (partially) VB projects.</description>
-    <projectUrl>__REPLACE__</projectUrl>
+    <projectUrl>http://cobisi.com/routing-assistant</projectUrl>
     <tags>routingAssistant admin</tags>
     <copyright></copyright>
     <licenseUrl>https://visualstudiogallery.msdn.microsoft.com/site/f0589156-a8e6-47db-8bac-90f01ca6b8a3/eula?licenseType=None</licenseUrl>

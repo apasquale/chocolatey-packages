@@ -1,1 +1,1 @@
-﻿Install-ChocolateyVsixPackage "RoutingAssistant" http://visualstudiogallery.msdn.microsoft.com/f0589156-a8e6-47db-8bac-90f01ca6b8a3/file/80662/4/Cobisi.RoutingAssistant-v1.8.vsix RoutingAssistant.vsix
+﻿Install-ChocolateyVsixPackage "RoutingAssistant" http://visualstudiogallery.msdn.microsoft.com/f0589156-a8e6-47db-8bac-90f01ca6b8a3/file/80662/4/Cobisi.RoutingAssistant-v1.8.vsix 12

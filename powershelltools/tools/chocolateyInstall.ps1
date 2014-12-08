@@ -1,1 +1,1 @@
-﻿Install-ChocolateyVsixPackage "PowerShellTools" http://visualstudiogallery.msdn.microsoft.com/c9eb3ba8-0c59-4944-9a62-6eee37294597/file/112013/7/PowerShellTools.vsix PowerShellTools.vsix
+﻿Install-ChocolateyVsixPackage "PowerShellTools" http://visualstudiogallery.msdn.microsoft.com/c9eb3ba8-0c59-4944-9a62-6eee37294597/file/112013/7/PowerShellTools.vsix 12
