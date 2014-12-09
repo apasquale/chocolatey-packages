@@ -1,4 +1,8 @@
 ::This script will go through each folder and package the file
+::Note an initialization step is required to set the API key
+::run
+::NuGet setApiKey <APIKey goes here> -Source https://www.myget.org/F/ap-chocolatey-packages/
+
 :: Gister
 cd gister
 cpack
@@ -33,4 +37,10 @@ cd ..
 cd vscommands.vs2013
 cpack
 NuGet push vscommands.vs2013.*.nupkg -Source https://www.myget.org/F/ap-chocolatey-packages/
+cd ..
+
+:: vs commands
+cd editorconfig
+cpack
+NuGet push editorconfig.*.nupkg -Source https://www.myget.org/F/ap-chocolatey-packages/
 cd ..

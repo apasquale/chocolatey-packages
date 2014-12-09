@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>editorconfig</id>
+    <title>EditorConfig</title>
+    <version>0.5.0</version>
+    <authors>Editor Config Team</authors>
+    <owners>Anthony Pasquale</owners>
+    <summary>Loads editor options such as indentation sizes from standard, cross-platform .editorconfig files.</summary>
+    <description>he EditorConfig project defines a simple file format for configuring common text-editor options such as indentation sizes. These configuration files are designed to sit alongside a project's source code, allowing text editors to use the right options on a file-by-file basis. The EditorConfig project provides plugins for many common text editors, making the format fully cross-platform.</description>
+    <projectUrl>http://editorconfig.org/</projectUrl>
+    <tags>editorconfig admin</tags>
+    <copyright>Copyright (c) 2012 EditorConfig Team</copyright>
+    <licenseUrl>https://visualstudiogallery.msdn.microsoft.com/site/c8bccfe2-650c-4b42-bc5c-845e21f96328/eula?licenseType=None</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>http://cdn.rawgit.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/editorconfig.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

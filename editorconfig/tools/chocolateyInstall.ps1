@@ -1,0 +1,1 @@
+﻿Install-ChocolateyVsixPackage "EditorConfig" https://visualstudiogallery.msdn.microsoft.com/c8bccfe2-650c-4b42-bc5c-845e21f96328/file/75539/12/EditorConfigPlugin.vsix 12
