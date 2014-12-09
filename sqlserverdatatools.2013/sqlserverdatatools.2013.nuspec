@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>sqlserverdatatools.2013</id>
+    <title>SQL Server Data Tools for Visual Studio 2013 - November 2014</title>
+    <version>12.0.41025.0</version>
+    <authors>Microsoft</authors>
+    <owners>Anthony Pasquale</owners>
+    <description>SQL Server Data Tools for Visual Studio 2013 - November 2014</description>
+    <projectUrl>http://msdn.microsoft.com/en-au/data/tools.aspx</projectUrl>
+    <tags>SQL Server Data Tools 2013 SQLServer SQLServerDataTools</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>12.0.41025.0 - November 2014 release</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

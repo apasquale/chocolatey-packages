@@ -39,8 +39,14 @@ cpack
 NuGet push vscommands.vs2013.*.nupkg -Source https://www.myget.org/F/ap-chocolatey-packages/
 cd ..
 
-:: vs commands
+:: EditorConfig
 cd editorconfig
 cpack
 NuGet push editorconfig.*.nupkg -Source https://www.myget.org/F/ap-chocolatey-packages/
+cd ..
+
+:: SqlServerDataTools 2013
+cd sqlserverdatatools.2013
+cpack
+NuGet push sqlserverdatatools.2013.*.nupkg -Source https://www.myget.org/F/ap-chocolatey-packages/
 cd ..
