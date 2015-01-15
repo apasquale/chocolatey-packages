@@ -6,10 +6,12 @@ These packages are hosted on myGet: https://www.myget.org/F/ap-chocolatey-packag
 
 This repo contains the following packages:
 - gister
+- git-credential-winstore
 - multiedit
 - powershelltools
 - routingassistant
 - specflow
+- sqlserverdatatools.2013
 - vscommands.vs2013
 
 
