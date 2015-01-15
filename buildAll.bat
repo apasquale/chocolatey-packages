@@ -11,7 +11,8 @@ routingassistant ^
 specflow ^
 vscommands.vs2013 ^
 editorconfig ^
-sqlserverdatatools.2013
+sqlserverdatatools.2013 ^
+git-credential-winstore
 
 (for %%a in (%list%) do (
 	echo Packing %%a
